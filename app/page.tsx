@@ -1,5 +1,5 @@
-import { DailyPlanner } from "@/components/daily-planner"
-import { ThreeDBackground } from "@/components/3d-background"
+import { DailyPlanner } from "@/components/daily-planner";
+import { ThreeDBackground } from "@/components/3d-background";
 
 export default function Home() {
   return (
@@ -7,5 +7,5 @@ export default function Home() {
       <ThreeDBackground />
       <DailyPlanner />
     </main>
-  )
+  );
 }
