@@ -7,7 +7,17 @@ Daily Planner is a feature-rich task management application built with React, Ne
 ## Features
 
 ### Core Functionality
-- ✅ Create, edit, and delete tasks
+- ✅ Create, edit, and delete tasks![Screenshot 2025-05-18 205624](https://github.com/user-attachments/assets/e6a5e55b-613c-4c35-84a7-f35ec9e5c7fb)
+![Screenshot 2025-05-18 205306](https://github.com/user-attachments/assets/2f781731-409d-4599-9ae0-0303fd406ca2)
+![Screenshot 2025-05-18 205333](https://github.com/user-attachments/assets/0e81bd3f-6da8-4ba5-a941-3a58023027dc)
+![Screenshot 2025-05-18 205354](https://github.com/user-attachments/assets/3361302c-6e70-4782-992a-ca108f94d666)
+![Screenshot 2025-05-18 205414](https://github.com/user-attachments/assets/7da7998f-5624-4fa6-868a-b55b27b20a67)
+![Screenshot 2025-05-18 205431](https://github.com/user-attachments/assets/7aa01256-c167-4f5a-9bd5-fcb65a929bb0)
+![Screenshot 2025-05-18 205450](https://github.com/user-attachments/assets/0af83a9b-8730-49fa-897d-8c34e1bce668)
+![Screenshot 2025-05-18 205506](https://github.com/user-attachments/assets/1d4995c9-a227-423d-829c-0b054e558035)
+![Screenshot 2025-05-18 205527](https://github.com/user-attachments/assets/a5ae2f75-fec0-4b52-a067-746dfcc765bf)
+![Screenshot 2025-05-18 205601](https://github.com/user-attachments/assets/b0cb698f-2751-453a-8d5f-51911cd35556)
+
 - ✅ Organize tasks by categories
 - ✅ Set priorities (high, medium, low)
 - ✅ Schedule tasks with dates and times
