@@ -1,10 +1,12 @@
 /** @type {import('next').NextConfig} */
 const repoName = 'daily-planner'; // Replace with your actual GitHub repo name if it's different
 
+const isProd = process.env.NODE_ENV === 'production';
+
 const nextConfig = {
   output: 'export',
-  basePath: process.env.NODE_ENV === 'production' ? `/${repoName}` : '',
-  assetPrefix: process.env.NODE_ENV === 'production' ? `/${repoName}/` : '',
+  basePath: isProd ? `/${repoName}` : '',
+  assetPrefix: isProd ? `/${repoName}/` : '',
   eslint: {
     ignoreDuringBuilds: true,
   },
@@ -14,6 +16,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  trailingSlash: true, // Ensures static export works well on GitHub Pages
 };
 
 export default nextConfig;
