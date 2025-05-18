@@ -43,7 +43,7 @@ Daily Planner is a feature-rich task management application built with React, Ne
 
 1. Clone the repository:
 \`\`\`bash
-git clone https://github.com/yourusername/daily-planner.git
+git clone https://github.com/shreyansh-hacker/daily-planner.git
 cd daily-planner
 \`\`\`
 
