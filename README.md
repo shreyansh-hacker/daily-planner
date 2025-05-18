@@ -4,7 +4,11 @@
 
 Daily Planner is a feature-rich task management application built with React, Next.js, and TypeScript. It offers a modern, interactive interface for managing daily tasks with advanced features like 3D visualizations, drag-and-drop task reordering, and multilingual support.
 
-## Features
+## Features![Screenshot 2025-05-18 205156](https://github.com/user-attachments/assets/4a31f56d-b891-4d59-8aa5-467201a4a70e)
+![Screenshot 2025-05-18 205248](https://github.com/user-attachments/assets/e1f39e33-eac5-4fc5-bb91-4c4b7c57d0a1)
+![Screenshot 2025-05-18 204859](https://github.com/user-attachments/assets/52c772e8-58c6-4a57-b9d5-2f8aa24f368f)
+![Screenshot 2025-05-18 205029](https://github.com/user-attachments/assets/c87a1248-6d9f-4b1e-99d1-09428d51340d)
+
 
 ### Core Functionality
 - ✅ Create, edit, and delete tasks![Screenshot 2025-05-18 205624](https://github.com/user-attachments/assets/e6a5e55b-613c-4c35-84a7-f35ec9e5c7fb)
